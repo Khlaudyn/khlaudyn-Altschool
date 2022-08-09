@@ -16,5 +16,5 @@ Here's a quick summary about me:
 
 💼 Job interests: Software Engineer, Data Analyst (Intern or Junior level).
 
-📫 You can view my resume and contact me by emailing mailtobolaji@gmail.com
+📫 You can view my resume and contact me by emailing ogukhlaudyn@gmail.com
 
