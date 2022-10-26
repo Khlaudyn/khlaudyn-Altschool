@@ -1,8 +1,8 @@
-Hello there; welcome 👋🏾
+Hello there 👋🏾
 
 AltSchool Badge Website Badge Linkedin Badge Twitter Badge
 
-I'm a Software Engineering Stundent in Altschool, aspiring Data Analyst as well. I'm passionate about sharing knowledge, documentation and building useful open-source projects, speak at some meetups/conferences...
+I'm a Software Engineering Stundent at Altschool Africa, aspiring Data Analyst as well.
 
 Here's a quick summary about me:
 
@@ -10,9 +10,7 @@ Here's a quick summary about me:
 
 💡 Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
 
-🌱 I’m currently learning Data Analysis, Python and Cloud Engineering.
-
-😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+🌱 I’m currently learning Data Analysis, Python and Cloud Engineering
 
 💼 Job interests: Software Engineer, Data Analyst (Intern or Junior level).
 
